@@ -43,6 +43,7 @@ Column P (density_n_bud_100) = Flower bud density*100.
 
 _3) Sheet ‘phenology_data’:
 _
+
 Column A (id_plant) = Identification of each plant.
 Column B (id_matrix) = Identification of the plant matrix.
 Column C (treatment) = Rhizobia present or absent.
@@ -53,6 +54,7 @@ Column G (occurrence_of_flowering) = Occurrence of flowering. 0 = did not produc
 
 _4) Sheet ‘aboveground_data’:
 _
+
 Column A (id_plant2) = Identification of each plant.
 Column B (id_matrix) = Identification of the plant matrix.
 Column C (combined_treatments) = Combined identification of treatments (rhizobia present or absent and soil type).
