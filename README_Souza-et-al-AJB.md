@@ -36,6 +36,7 @@ Column M (n_flowers) = Number of flowers.
 Column N (n_flowers_open_day) = Number of open flowers opened each day.
 
 
+______________________________________________________________________________________
 
 _2) Sheet 'data_220day:_
 
@@ -71,6 +72,8 @@ Column O (density_n_bud) = Flower bud density (number of buds/plant size).
 Column P (density_n_bud_100) = Flower bud density*100.
 
 
+______________________________________________________________________________________
+
 
 _3) Sheet ‘phenology_data’:_
 
@@ -89,6 +92,8 @@ Column F (day_peak_flowering) = Number of days until peak flowering.
 
 Column G (occurrence_of_flowering) = Occurrence of flowering. 0 = did not produce flowers; 1 = produced flowers.
 
+
+______________________________________________________________________________________
 
 _4) Sheet ‘aboveground_data’:_
 
